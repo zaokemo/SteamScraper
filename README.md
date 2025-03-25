@@ -66,7 +66,7 @@ Data saved to SteamDeals.xlsx
 - It is dependent on the current HTML structure of the Steam store page. If the structure changes, the script might need updates.
 - Ensure compliance with Steam's terms of service regarding web scraping.
 
-## End
+## Example of the excel
+![image](https://github.com/user-attachments/assets/18a384aa-f61b-43a4-84b8-7e78b46e9728)
 
-Feel free to use and modify this script as needed.
 
